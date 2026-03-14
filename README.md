@@ -22,11 +22,7 @@ CNN
 
 LSTM
 
-DNN
-
-DBN
-
-ELM
+random forest
 
 4️⃣ Deep Ensemble Learning
 
