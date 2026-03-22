@@ -3,7 +3,7 @@
 A Big Data–based Smart Health Monitoring System that predicts human physical activities and health states using wearable sensor data and Deep Ensemble Learning (DEL).
 The system combines multiple deep learning models including CNN, LSTM, DNN, DBN, and ELM to improve prediction accuracy.
 
-This project is inspired by the research paper “Big Data-Based Smart Health Monitoring System Using Deep Ensemble Learning.”
+This project is inspired by the research paper “Big Data-Based Smart Health Monitoring System Using Deep Ensemble Learning."
 
 🔄 System Workflow
 
